@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Spring_Authority_Demo"
+  id="myeclipse.1495421438086"
+  context-root="/Spring_Authority_Demo"
+  j2ee-spec="5.0"
+  archive="Spring_Authority_Demo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
